@@ -1,0 +1,48 @@
+[submodule "extensions/00-Openpose-Editor"]
+	path = extensions/00-Openpose-Editor
+	url = https://github.com/fkunn1326/openpose-editor.git
+[submodule "extensions/00-Posex"]
+	path = extensions/00-Posex
+	url = https://github.com/hnmr293/posex
+[submodule "extensions/01-Controlnet"]
+	path = extensions/01-Controlnet
+	url = https://github.com/Mikubill/sd-webui-controlnet
+[submodule "extensions/01-Depth-lib"]
+	path = extensions/01-Depth-lib
+	url = https://github.com/jexom/sd-webui-depth-lib
+[submodule "extensions/Additional-Networks"]
+	path = extensions/Additional-Networks
+	url = https://github.com/kohya-ss/sd-webui-additional-networks
+[submodule "extensions/Adetailer"]
+	path = extensions/Adetailer
+	url = https://github.com/Bing-su/adetailer
+[submodule "extensions/Dynamic-prompts"]
+	path = extensions/Dynamic-prompts
+	url = https://github.com/adieyal/sd-dynamic-prompts
+[submodule "extensions/Lycoris"]
+	path = extensions/Lycoris
+	url = https://github.com/KohakuBlueleaf/a1111-sd-webui-lycoris
+[submodule "extensions/Merge-Block-Weighted"]
+	path = extensions/Merge-Block-Weighted
+	url = https://github.com/bbc-mc/sdweb-merge-block-weighted-gui
+[submodule "extensions/Model-Toolkit"]
+	path = extensions/Model-Toolkit
+	url = https://github.com/arenasys/stable-diffusion-webui-model-toolkit
+[submodule "extensions/Multidiffusion"]
+	path = extensions/Multidiffusion
+	url = https://github.com/pkuliyi2015/multidiffusion-upscaler-for-automatic1111
+[submodule "extensions/Regional-Prompter"]
+	path = extensions/Regional-Prompter
+	url = https://github.com/hako-mikan/sd-webui-regional-prompter
+[submodule "extensions/Supermerger"]
+	path = extensions/Supermerger
+	url = https://github.com/hako-mikan/sd-webui-supermerger
+[submodule "extensions/TagComplete"]
+	path = extensions/TagComplete
+	url = https://github.com/DominikDoom/a1111-sd-webui-tagcomplete
+[submodule "extensions/HuggingFace"]
+	path = extensions/HuggingFace
+	url = https://github.com/camenduru/stable-diffusion-webui-huggingface
+[submodule "extensions/00-Posex-0.4"]
+	path = extensions/00-Posex-0.4
+	url = https://github.com/daswer123/posex
